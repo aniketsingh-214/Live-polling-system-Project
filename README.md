@@ -55,3 +55,44 @@ The Live Polling Application is a real-time polling system built for classrooms,
    * Enter a name to join.
    * Submit answers to active polls.
    * View the results once the poll ends.
+
+## Getting Started
+
+###  Backend
+
+1. Navigate to the backend directory:
+
+   ```bash
+   cd backend
+   ```
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+3. Start the backend server:
+
+   ```bash
+   npm start
+   ```
+
+---
+
+### 💻 Frontend
+
+1. Navigate to the frontend directory:
+
+   ```bash
+   cd frontend
+   ```
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+3. Start the frontend development server:
+
+   ```bash
+   npm run dev
+   ```
+
